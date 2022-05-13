@@ -1,0 +1,83 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: bisque;
+}
+
+.one{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: bisque;
+    margin-top: 10px;
+}
+
+.two{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 360px;
+}
+
+.three{
+    margin: 10px;
+}
+
+.bb{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.two img{
+    width: 200px;
+    margin: 10px;
+}
+
+.icons{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.icons ion-icon{
+    color: grey;
+    border-radius: 100px;
+}
+
+.icon2 ion-icon{
+    margin-left: 10px;
+    color:#f0bc00;
+    --ionicon-stoke-width: 16px;
+}
+
+.dd{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.ee{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: grey;
+}
+
+.ff{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button{
+    border-radius: 20px;
+    border-color: #f0bc00;
+    height: 40px;
+    outline: none;
+    width: 200px;
+    background-color: #f0bc00;
+    color: white;
+}
